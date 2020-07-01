@@ -1,0 +1,31 @@
+machines:
+  port: 22
+  prefix: fqdn.local
+  names:
+  - machine-dev-001
+  - machine-dev-002
+  - machine-dev-003
+  - machine-dev-004
+  - machine-dev-005
+  - machine-dev-006
+  - machine-dev-007
+  - machine-dev-008
+  - machine-dev-009
+  - machine-dev-010
+  - machine-dev-011
+  - machine-dev-012
+  - machine-dev-013
+  - machine-dev-014
+  - machine-dev-015
+  - machine-dev-016
+  - machine-dev-017
+  - machine-dev-018
+  - machine-dev-019
+  - machine-dev-020
+  - machine-dev-021
+  - machine-dev-022
+  - machine-dev-023
+  - machine-dev-024
+  - machine-dev-025
+  - machine-dev-026
+
